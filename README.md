@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+[![<ORG_NAME>](https://circleci.com/gh/uell-tech/sklearn-ml.svg?style=svg)](https://app.circleci.com/pipelines/github/uell-tech/sklearn-ml)
+
+# sklearn
 
 ## Project Overview
 
